@@ -1,4 +1,21 @@
-#ubuntu{
-    border: 2px solid;
+#tr{
+    border: 1px solid;
+    width: 55%;
+    height:50%;
+
+}
+
+tr, th{
+    border: 1px solid;
+    width: 20%;
+}
+
+href{
+    border: 1px;
+    width: 50%;
+}
+
+logo{
+    margin: 20%;
     width: 100%;
 }
